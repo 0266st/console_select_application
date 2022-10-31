@@ -4,3 +4,4 @@
 Console版選択アプリケーション.exe
 これのみ。
 ほい。
+https://github.com/aonoshito/console_select_application/
